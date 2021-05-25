@@ -1,0 +1,622 @@
+-----------Exception Details on  1.02.2021 10:08:39-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:08:39
+ 
+Error Line No :    at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 162
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: Exception
+ 
+Exception Type: System.Exception
+ 
+Error Location : DescriptionA ve ReadNameD farkli
+ 
+Base Error Location : DescriptionA ve ReadNameD farkli
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:09:45-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:09:45
+ 
+Error Line No :    at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 68
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: Exception
+ 
+Exception Type: System.Exception
+ 
+Error Location : Name ve ReadNameB farkli
+ 
+Base Error Location : Name ve ReadNameB farkli
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:10:44-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:10:44
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:11:28-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:11:28
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:11:43-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:11:43
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:12:22-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:12:22
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:13:27-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:13:27
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:13:43-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:13:43
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:13:48-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:13:48
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.SendKeys(String text)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 50
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/element/f3c1fd16-4426-4ede-968b-c68c1ed2b804/value. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:14:32-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:14:32
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:15:35-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:15:35
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:16:04-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:16:04
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:16:36-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:16:36
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:17:39-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:17:39
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:18:10-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:18:10
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:18:41-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:18:41
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:19:47-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:19:47
+ 
+Error Line No :    at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 68
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: Exception
+ 
+Exception Type: System.Exception
+ 
+Error Location : Name ve ReadNameB farkli
+ 
+Base Error Location : Name ve ReadNameB farkli
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:20:50-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:20:50
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:53601/session/eb15f6700936b521e328707f1e2d3bc4/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:34:35-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:34:35
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.SendKeys(String text)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 50
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : The HTTP request to the remote WebDriver server for URL http://localhost:64822/session/9161176b9dd3e95cbb17d8ef703a5bb1/element/3903c670-b77b-4c3c-bc8b-2f084cd7612e/value timed out after 60 seconds.
+ 
+Base Error Location : The operation has timed out.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 10:35:47-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 10:35:47
+ 
+Error Line No :    at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 68
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: Exception
+ 
+Exception Type: System.Exception
+ 
+Error Location : Name ve ReadNameB farkli
+ 
+Base Error Location : Name ve ReadNameB farkli
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 11:44:52-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 11:44:52
+ 
+Error Line No :    at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 162
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: Exception
+ 
+Exception Type: System.Exception
+ 
+Error Location : DescriptionA ve ReadNameD farkli
+ 
+Base Error Location : DescriptionA ve ReadNameD farkli
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 11:45:54-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 11:45:54
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:49895/session/ac7a3dbbc22ed315385832863234d48c/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 11:47:00-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 11:47:00
+ 
+Error Line No :    at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 68
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: Exception
+ 
+Exception Type: System.Exception
+ 
+Error Location : Name ve ReadNameB farkli
+ 
+Base Error Location : Name ve ReadNameB farkli
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 11:47:36-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 11:47:36
+ 
+Error Line No :    at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.GetAttribute(String attributeName)
+   at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 63
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: WebDriverException
+ 
+Exception Type: OpenQA.Selenium.WebDriverException
+ 
+Error Location : A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:49895/session/ac7a3dbbc22ed315385832863234d48c/execute/sync. The status of the exception was UnknownError, and the message was: Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor. Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+ 
+Base Error Location : Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor.
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 11:48:41-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 11:48:41
+ 
+Error Line No :    at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 68
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: Exception
+ 
+Exception Type: System.Exception
+ 
+Error Location : Name ve ReadNameB farkli
+ 
+Base Error Location : Name ve ReadNameB farkli
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 11:49:47-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 11:49:47
+ 
+Error Line No :    at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 68
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: Exception
+ 
+Exception Type: System.Exception
+ 
+Error Location : Name ve ReadNameB farkli
+ 
+Base Error Location : Name ve ReadNameB farkli
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 11:50:52-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 11:50:52
+ 
+Error Line No :    at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 68
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: Exception
+ 
+Exception Type: System.Exception
+ 
+Error Location : Name ve ReadNameB farkli
+ 
+Base Error Location : Name ve ReadNameB farkli
+--------------------------------*End*------------------------------------------
+
+
+-----------Exception Details on  1.02.2021 13:27:16-----------------
+-------------------------------------------------------------------------------------
+
+
+Log Written Date: 1.02.2021 13:27:16
+ 
+Error Line No :    at ozdilekteyim.EnglishTranslatorProduct.Translator(IWebDriver driver, Product pro) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\EnglishTranslatorProduct.cs:line 68
+   at ozdilekteyim.DriverChrome.translateUrl(String TranslateURl) in C:\Users\Emre\source\repos\ozdilekteyim\ozdilekteyim\DriverChrome.cs:line 45
+ 
+Error Message: Exception
+ 
+Exception Type: System.Exception
+ 
+Error Location : Name ve ReadNameB farkli
+ 
+Base Error Location : Name ve ReadNameB farkli
+--------------------------------*End*------------------------------------------
+
+
